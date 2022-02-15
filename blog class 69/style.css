@@ -1,0 +1,16 @@
+.text-success {
+    color: #948c8b;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv h4,
+.travel_mainDiv p {
+    margin: 20px;
+}
+
+.travel_mainDiv {
+    border: 2px solid lightgrey background-color: floralwhite;
+}
